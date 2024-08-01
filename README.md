@@ -1,0 +1,9 @@
+- 👋  Olá, eu me chamo Gleguer Silva de oliveira 
+- 🌱 Atualmente estou aprendendo (python, Html, Javascript e CSS)<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo: ("email: Ogleguer@gmail.com) ("Instagram: @Gleguer_sd") 
+- 😄 Pronomes: Ele/Dele ♂️
+- ⚡ Curiosidade: Gosto de videogames 🎮, animes 🍥🍜🦊
+--><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
